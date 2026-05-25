@@ -102,7 +102,7 @@ Essas etapas foram adaptadas para um contexto de BI operacional aplicado à log�
 
 ## Estrutura do Repositório
 
-```text
+````text
 airport-cargo-analytics/
 │
 ├── README.md
@@ -131,17 +131,18 @@ airport-cargo-analytics/
     └── process_flow.png
 ````
 
-Status do Projeto
+## Status do Projeto
 
 Em desenvolvimento.
 
 Fase atual: definição do escopo, metodologia, KPIs, estrutura de dados e documentação inicial.
 
-Próximos Passos
-Criar documentação complementar na pasta docs
-Definir dicionário de dados
-Criar base simulada
-Modelar dados em SQL
-Tratar dados com Power Query
-Criar dashboard em Power BI
-Documentar consultas, métricas e principais insights
+## Próximos Passos
+
+- Criar documentação complementar na pasta `docs`
+- Definir dicionário de dados
+- Criar base simulada
+- Modelar dados em SQL
+- Tratar dados com Power Query
+- Criar dashboard em Power BI
+- Documentar consultas, métricas e principais insights
